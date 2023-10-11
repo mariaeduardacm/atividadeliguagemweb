@@ -1,0 +1,21 @@
+
+   .rosa{
+    color:#a75e7a;
+  }
+  .centro {
+    text-align: center;
+  }
+  #titulo {
+    font-weight:bold;
+    color:#85b192;
+    text-align: center;
+  }
+  span {
+    background-color: yellow;
+  }
+  #fonte {
+    font-family: 'Courier New', Courier, monospace;
+  }
+  body{
+background-color:white
+  }
